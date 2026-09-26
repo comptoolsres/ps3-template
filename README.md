@@ -9,6 +9,20 @@ Even if you work in groups, **each person must submit the assignment in Canvas**
 **Note:** This assignment will have peer review. It is important to be able to look at someone else's code and figure out what they are doing. It's also important to write code with the idea that someone else will look at it and needs to understand it. While I will take both the peer reviewer's comments on your code and your comments on the peer reviewed code into account when assigning grades, I will be assigning the grade, not the reviewer.
 
 ---
+## Starter code
+
+There are three versions of the starter code depending on how you wish to work:
+
+1. `starter_script.py` A pure Python script. Generally run from the command-line.
+2. `started_jupyter.ipynb` A Jupyter Notebook with instrcutions in markdown format and code blocks with starter code.
+3. `starter_marimo.py` A Marimo Notebook with instrcutions in markdown format and code blocks with starter code.
+    * Before launching Marimo, you will need to clone the repo onto HiPerGator, change directories into the problem set directory, and run:
+        ```bash
+        ml conda
+        uv init
+        ```
+
+---
 
 ## Data
 
